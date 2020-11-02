@@ -1,0 +1,23 @@
+ul > li:nth-child(odd){
+    background-color: red;
+}
+ul > li:nth-child(even){
+    background-color: blue;
+}
+
+ul{
+    list-style-type: lower-roman;
+    background-color: green;
+}
+
+ol{
+    list-style-type: lower-latin;
+    background-color: black;
+    color: white;
+}
+ol > li:nth-child(3n+3){
+    background-color: brown;
+}
+ol > li{
+    background-color: darkgoldenrod;
+}
