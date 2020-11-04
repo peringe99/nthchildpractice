@@ -56,3 +56,7 @@ ol > li{
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
